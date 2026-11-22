@@ -1,0 +1,8 @@
+# challenge data: read it from input-data, never commit it
+input-data/
+*.parquet
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
